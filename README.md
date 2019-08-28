@@ -1,4 +1,4 @@
-# AppiumDemp
+# AppiumDemo
 demo for react-native 0.60+ with Appium 
 
 
