@@ -39,7 +39,6 @@ yarn-error.log
 # BUCK
 buck-out/
 \.buckd/
-*.keystore
 
 # fastlane
 #
@@ -58,7 +57,6 @@ ios/Pods
 
 # VSCode
 .vscode
-android/*.keystore.*
 android/gradle.properties
 .project
 *.prefs
