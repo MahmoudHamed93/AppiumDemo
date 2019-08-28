@@ -5,6 +5,7 @@ demo for react-native 0.60+ with Appium
 To check this demo on your device 
 
 Commands to run : 
+
 1- Clone this repo and update the APK path to your path (Absolute Path)
 
 2- npm install 
